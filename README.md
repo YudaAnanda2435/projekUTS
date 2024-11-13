@@ -1,79 +1,13 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
-# Getting Started
-
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
-
-## Step 1: Start the Metro Server
-
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
-
-To start Metro, run the following command from the _root_ of your React Native project:
-
-```bash
-# using npm
-npm start
-
-# OR using Yarn
-yarn start
-```
-
-## Step 2: Start your Application
-
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
-
-### For Android
-
-```bash
-# using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
-
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+![Screenshot_2024-11-13-21-09-09-046_com tugas8](https://github.com/user-attachments/assets/6b4e41ea-7e5a-4809-8d62-0eb7e395837a)
+![Screenshot_2024-11-13-21-09-35-587_com tugas8](https://github.com/user-attachments/assets/201b69b6-d9b4-4476-aa98-94acff144f1a)
+![Screenshot_2024-11-13-21-09-51-642_com tugas8](https://github.com/user-attachments/assets/babc0081-602b-4b6c-a7a4-d43532b28d07)
+![Screenshot_2024-11-13-21-10-01-923_com tugas8](https://github.com/user-attachments/assets/f5390289-dc43-4d45-a318-8501a28e71f8)
+![Screenshot_2024-11-13-21-10-35-820_com tugas8](https://github.com/user-attachments/assets/e99b10f8-52c5-400e-a890-d715362952eb)
+![Screenshot_2024-11-13-21-10-44-660_com tugas8](https://github.com/user-attachments/assets/95317d57-aff0-4a75-a7c1-ecc3e579763e)
+![Screenshot_2024-11-13-21-11-27-464_com tugas8](https://github.com/user-attachments/assets/e1846654-41ca-497d-9c77-aa235df24600)
+![Screenshot_2024-11-13-21-11-57-300_com tugas8](https://github.com/user-attachments/assets/bf7359b3-0284-4792-9249-05d3ddaa7e09)
+![Screenshot_2024-11-13-21-12-01-944_com tugas8](https://github.com/user-attachments/assets/f2b46e3d-340f-4248-bee8-ccb0465361ba)
+![Screenshot_2024-11-13-21-12-10-238_com tugas8](https://github.com/user-attachments/assets/87f61902-db5a-436c-ae16-42eb7d7ae378)
+![Screenshot_2024-11-13-21-12-43-932_com tugas8](https://github.com/user-attachments/assets/b4a73649-5d1b-45b8-a99b-f8df3fba23d6)
+![Screenshot_2024-11-13-21-12-53-437_com tugas8](https://github.com/user-attachments/assets/a092f0e0-07c3-4c6c-b0b4-b07a3af6c14b)
+![Screenshot_2024-11-13-21-12-58-011_com tugas8](https://github.com/user-attachments/assets/0922a1d5-e836-41cc-a9fb-307c9f4643f5)
